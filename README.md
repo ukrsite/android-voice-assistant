@@ -1,2 +1,2 @@
-# jaxrs-url-shortener
-Java API for RESTful Web Services, MongoDB, TomEE
+# Android Voice Assistant
+Java REST API, Retrofit2, Gson, TextToSpeech
